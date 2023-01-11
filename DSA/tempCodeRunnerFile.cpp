@@ -1,2 +1,1 @@
-insertHead(head,1);
-    // insertTail(head,9);
+            cout<<q.top()->data<<" ";
